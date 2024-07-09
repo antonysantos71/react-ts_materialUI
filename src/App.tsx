@@ -1,7 +1,7 @@
+import { AppRoutes } from "./routes/AppRoutes";
+
 export function App() {
   return (
-    <main>
-      React ⚛️ + Vite ⚡ + Replit 🌀
-    </main>
+    <AppRoutes />
   )
 }
